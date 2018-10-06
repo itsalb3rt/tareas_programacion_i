@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479764806 source:c:\users\usuario\desktop\universidad y proyectos\programacion i\clase misulindo con peso y edad\main.cpp
+	<iostream>
+	"clase.hpp"
+
+1479764677 c:\users\usuario\desktop\universidad y proyectos\programacion i\clase misulindo con peso y edad\clase.hpp
+	<iostream>
+

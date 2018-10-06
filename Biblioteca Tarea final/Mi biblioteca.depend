@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473112673 source:c:\users\estudiante\desktop\biblioteca\mi biblioteca\main.cpp
+	<iostream>
+
+1473641436 source:c:\users\usuario\desktop\universidad y proyectos\programacion i\biblioteca\mi biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	"esconu.h"
+

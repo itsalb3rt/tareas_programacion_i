@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480023152 source:c:\users\usuario\desktop\universidad y proyectos\programacion i\tareafinal\main.cpp
+	<iostream>
+	<fstream>
+	"isr.hpp"
+	"esconu.h"
+
+1480000991 c:\users\usuario\desktop\universidad y proyectos\programacion i\tareafinal\isr.hpp
+	<iostream>
+	<fstream>
+

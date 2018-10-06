@@ -1,0 +1,4 @@
+string stringAConvertir = "1";
+    int variableEntera;
+    if ( ! (istringstream(stringAConvertir) >> variableEntera) ) variableEntera = 0; //Convierte de string a entero
+        cout <<variableEntera;

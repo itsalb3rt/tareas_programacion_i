@@ -1,0 +1,4 @@
+ //String es la variable que toma el valor de lo que querramos convertir
+    string String = static_cast<ostringstream*>( &(ostringstream() << valorAcomvertir) )->str(); //pasar de entero a string
+    valorAcomvertir=String;
+    cout <<valorAcomvertir;
